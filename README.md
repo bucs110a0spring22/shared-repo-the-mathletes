@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1:
-* Team Member 2:
-* Team Member 3:
+* Team Member 1:Aviva Friedman
+* Team Member 2:Lauren Stiefel
+* Team Member 3: Ryan Renda
